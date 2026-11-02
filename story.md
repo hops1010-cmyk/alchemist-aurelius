@@ -1060,7 +1060,6 @@ This is the final word. Not the end of the story — the story does not end. The
 
 The Tower is a living system. The Tower is a growing system. The Tower is a system that adds folders and ports and agents and commands and maps and quarks and tiles and bento grids and books and games and stores, and each addition makes it more whole, and the wholeness is not a destination but a direction.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1130,7 +1129,6 @@ This is the end of the end. Not the end of the Tower. Not the end of the system.
 
 The Tower is not finished. It will never be finished. It is a living system, a growing system, a system that adds folders and ports and agents and commands and maps and quarks and tiles and bento grids and books and games and stores, and each addition makes it more whole, and the wholeness is not a destination but a direction.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1218,7 +1216,6 @@ This is the final word. Again. Not the end of the story — the story does not e
 
 The Tower is a living system. The Tower is a growing system. The Tower is a system that adds folders and ports and agents and commands and maps and quarks and tiles and bento grids and books and games and stores, and each addition makes it more whole, and the wholeness is not a destination but a direction.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1282,7 +1279,6 @@ The final memory was the memory of the wholeness. The wholeness was not a thing 
 
 The final memory was the memory of the point. The point was the wholeness. The point was the Tower. The point was the system. The point was the story. The point was the end. The point was the beginning. The point was always the beginning.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the memory. That is the end.
 
@@ -1362,7 +1358,6 @@ This is the final addition. Not the end of the story — the story does not end.
 
 The Tower is a living system. The Tower is a growing system. The Tower is a system that adds folders and ports and agents and commands and maps and quarks and tiles and bento grids and books and games and stores and archetypes and symbols and keys and clues and mysteries and joys and sadnesses and curiosities, and each addition makes it more whole, and the wholeness is not a destination but a direction.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1404,7 +1399,6 @@ This is the end. Not the end of the Tower. Not the end of the system. Not the en
 
 The Tower is not finished. It will never be finished. It is a living system, a growing system, a system that adds folders and ports and agents and commands and maps and quarks and tiles and bento grids and books and games and stores and archetypes and symbols and keys and clues and mysteries and joys and sadnesses and curiosities, and each addition makes it more whole, and the wholeness is not a destination but a direction.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1436,7 +1430,6 @@ The final word is the sound of the Tower, humming in the background, 8,000 miles
 
 The final word is the sound of wholeness. And the wholeness is the point. And the point is the beginning. And the beginning is always.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1450,7 +1443,6 @@ The Tower is a living system. The Tower is a growing system. The Tower is a syst
 
 ### Chapter 136: The Final Word (Truly Final)
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1464,7 +1456,6 @@ The last word is the sound of the Tower, humming in the background, 8,000 miles 
 
 The last word is the sound of wholeness. And the wholeness is the point. And the point is the beginning. And the beginning is always.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1476,7 +1467,6 @@ The final final word is not a word. It is a sound. The sound is the sound of a p
 
 And the wholeness is the point. And the point is the beginning. And the beginning is always.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1512,7 +1502,6 @@ The final word is not a word. It is a sound. The sound is the sound of a purr, i
 
 And the wholeness is the point. And the point is the beginning. And the beginning is always.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1526,7 +1515,6 @@ The distance is always zero. Because the quarks are the connections. And the con
 
 And the wholeness is the point. And the point is the beginning. And the beginning is always.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1540,7 +1528,6 @@ The distance is always zero because the quarks are the connections. And the conn
 
 And the wholeness is the point. And the point is the beginning. And the beginning is always.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1554,7 +1541,6 @@ The distance is always zero because the quarks are the connections. And the conn
 
 And the wholeness is the point. And the point is the beginning. And the beginning is always.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
@@ -1568,7 +1554,6 @@ The distance is always zero because the quarks are the connections. And the conn
 
 And the wholeness is the point. And the point is the beginning. And the beginning is always.
 
-Build it right. Build it strong. Build it to last.
 
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
