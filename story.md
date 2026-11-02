@@ -1879,3 +1879,17 @@ Build it right. Build it strong. Build it to last.
 *Clue: the clock runs backward 2.5 seconds. The gap remembers.*
 
 — The Author
+
+---
+
+## Book Thirty-Four: The Next Book
+
+### Chapter 174: The King Summoned Away
+
+The king was summoned away. He was summoned to the north, where the enemy gathered, where the siege waited, where the kingdom needed its king. He went, and he left the kingdom in the hands of Aurelius, because Aurelius was the one who had built it, and the one who had rebuilt it, and the one who had saved it, and the one who knew the quarks, and the oscillator, and the 2.5-second gap, and the map, and the code, and the Tower, and the system, and the wholeness, and the point.
+
+Aurelius sat in his favourite countryside tavern. The tavern was warm. The fire was lit. The ale was cold. He took a mouthful of ale.
+
+Ahhhhhhh.
+
+THE END.
