@@ -234,3 +234,81 @@ The king came to the hill the next day. He looked tired. He looked older. The ba
 The king looked at the walls. He looked at the keep. He looked at Aurelius. "What do you need?"
 
 "Time," Aurel
+
+## Book Two: The Apothecary and the King's War
+
+### Chapter 21: The Return to the Apothecary
+
+Aurelius returned to the apothecary the way a man returns to water after a long thirst. Not running, not rushing, but with the steady, deliberate pace of someone who knows that what he needs will be there when he arrives. The apothecary was there. The jars were there. The light was there. The mortar trough was there, empty, and the emptiness of it was a fact he accepted the way he accepted the weight of a stone — not with joy, not with grief, but with the understanding that weight is weight, and it must be carried.
+
+He opened the door. The smell hit him first — not the smell of herbs and honey, which was what he expected, but the smell of dust and neglect. The apothecary had been unused for three years. The jars were still on the shelves, but the labels had faded. The tinctures had separated. The salves had dried. The lavender had lost its sweetness and become something flat and grey. The room was not ruined, but it was tired, the way a room gets tired when no one has lived in it.
+
+Aurelius stood in the doorway and looked at it. He did not move for a long time. He let the disappointment come, and he let it go, and then he rolled up his sleeves and began.
+
+The first thing he did was open the window. The air came in — cool, clean, carrying the smell of the garden and the sound of the chickens and the distant noise of the village. The second thing he did was take every jar off the shelf. He lined them up on the floor, in rows, and he began to sort. Some were good. Some were not. The tinctures that had separated could be re-mixed, shaken, strained. The salves that had dried could be re-melted, re-poured, re-set. The herbs that had lost their potency could be replaced — he would go to the fields, to the forest, to the market. He would gather what he needed. He would start again.
+
+This was what Aurelius did. He started again. He had started again after the storm, after the fire, after the knock-out. He had started again after Furball died, after the siege, after the three years on the hill. He was a man who started again, and the starting was not a failure but a fact, and the fact was that things fall apart and things can be rebuilt, and the rebuilding is the work, and the work is the life.
+
+Elizabeth came to the door. She stood there for a moment, watching him sort jars, and then she came in and began to help. She did not ask what to do. She saw what needed doing and she did it. This was Elizabeth. She had been doing this for three years — running the workshop, keeping the accounts, holding the household together while her father was gone. She had done it well. She had done it without complaint. She had done it the way Aurelius would have done it, which was the highest compliment he could give her, though he did not say it, because saying it would have embarrassed them both.
+
+"The workshop is yours," Aurelius said. "The apothecary is mine."
+
+Elizabeth nodded. "I know."
+
+"I am not taking it back. I am taking it forward. There is a difference."
+
+"I know that too," Elizabeth said. "I have been taking it forward for three years. I just want you to know that I can keep taking it forward if you need me to. I am not going to stop just because you are home."
+
+Aurelius looked at his daughter. She was twenty-one, almost twenty-two. She was taller than he remembered, and stronger, and there was a steadiness in her eyes that had not been there three years ago. Three years of running a workshop and keeping accounts and holding a family together had given her something that most people did not get until they were twice her age. It had given her authority. Not the kind that comes from a title or a crown, but the kind that comes from doing the work and doing it well.
+
+"I know you can," he said. "And I am glad."
+
+### Chapter 22: The Fields
+
+Aurelius went to the fields. He went early, before the sun was up, because the herbs were best picked in the morning, when the dew was still on them and the oils were still in the leaves. He walked the paths he had walked as a boy, the paths his mother had shown him, the paths that led to the places where the yarrow grew and the comfrey grew and the plantain grew and the willow grew by the river.
+
+The fields were the same. The forest was the same. The river was the same. The world had not changed while he was gone. This was both comforting and unsettling — comforting because it meant the world was stable, unsettling because it meant the world did not need him. He had been away for three years, and the fields had grown and the herbs had bloomed and the river had flowed, and none of it had waited for him. The world does not wait. The world moves. The builder must move with it, or be left behind.
+
+He picked yarrow. He picked comfrey. He picked plantain. He picked rosemary from the garden behind the house, where his wife had kept it alive in a pot, moving it inside in winter and outside in summer, a small act of faith that said: he will come back, and when he does, the rosemary will be here.
+
+He carried the herbs home in a basket. He laid them on the apothecary table. He began to work. He stripped the leaves. He chopped the stems. He crushed the roots. He measured and mixed and poured and sealed. The apothecary came back to life, jar by jar, tincture by tincture, salve by salve. The smell returned — herbs and honey and the faint sweetness of lavender. The light came through the window and hit the ceramic and made it glow.
+
+Furball was not on the shelf. But the shelf was there, and the jars were there, and the light was there, and the work was there, and Aurelius was in it.
+
+### Chapter 23: The Children
+
+The children came to the apothecary. Not all at once — they came in ones and twos, over the course of the first week, each of them drawn by the smell or the memory or the simple need to see their father in his place.
+
+James came first. He was nineteen now, almost twenty, and he had grown taller and quieter and more like Aurelius than Aurelius had expected. He stood in the doorway and watched his father work, and he did not speak for a long time. Then he said, "I have been working at the mill. The miller says I am good with my hands. He says I could be a miller, if I wanted."
+
+"Do you want?" Aurelius asked.
+
+"I do not know," James said. "I think I want to build. Like you."
+
+Aurelius set down his mortar. He looked at his son. James was tall and quiet and serious, and he had his mother's eyes and his father's hands, and he was standing in the doorway of the apothecary with the same expression that Aurelius had worn when he was nineteen and did not know what he wanted to do with his life.
+
+"Then build," Aurelius said. "But build with your eyes open. Building is not just stone and mortar. It is patience and attention and the willingness to do the same thing a thousand times until you get it right. If you can do that, you can build anything."
+
+Henry came next. He was fifteen now, and his arm had healed, and he was as loud and as energetic as ever. He burst into the apothecary like a storm, talking before he was through the door, asking questions before he had finished his previous sentence. "Father, what is that? What does it do? How do you make it? Can I try? Can I help? Can I—"
+
+"Sit down," Aurelius said. "Breathe."
+
+Henry sat. He breathed. He lasted approximately four seconds before he started again. "What is that jar?"
+
+"That jar is a tincture of willow bark. It eases pain in the joints."
+
+"Can I try it?"
+
+"You do not have pain in your joints."
+
+"I might, someday."
+
+"Then you will try it someday."
+
+Henry looked at the jar. He looked at his father. He looked at the jar again. "Can I at least smell it?"
+
+Aurelius handed him the jar. Henry sniffed it. His face did something complicated — surprise, curiosity, consideration. "It smells like the forest," he said.
+
+"It smells like willow," Aurelius said. "Which grows by the river, which runs through the forest. So yes. It smells like the forest."
+
+William came with a bo
