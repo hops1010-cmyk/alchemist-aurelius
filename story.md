@@ -312,3 +312,83 @@ Aurelius handed him the jar. Henry sniffed it. His face did something complicate
 "It smells like willow," Aurelius said. "Which grows by the river, which runs through the forest. So yes. It smells like the forest."
 
 William came with a bo
+
+## Book Three: The Garden Maze
+
+### Chapter 31: The Map
+
+It was on a Tuesday — the postman's day, the day the letters came, the day the world felt connected to itself — that Aurelius found the map. He was in the apothecary, grinding dried lavender into powder, when Elizabeth came in with a parcel. The parcel was old. The paper was brown and soft with age, and the string that bound it was frayed and dark. There was no return address. There was no sender's name. There was only a watermark, faint but visible when the light caught it, that read VISTAMATIONS.
+
+Aurelius took the parcel. He turned it over. He held it to the light. The watermark shifted — not a static image, but something that seemed to move, to breathe, to pulse with a faint, barely visible luminescence. He had never seen a watermark like this. He had seen watermarks in paper, in linen, in the occasional official document that crossed his path. But this was different. This was alive.
+
+He opened the parcel. Inside was a map. It was folded into eighths, and when he unfolded it, it covered the entire apothecary table. It was hand-drawn, in ink that had aged to a warm brown, and it depicted a building — a tower, a skyscraper, a structure that rose from the page like a finger pointing at the sky. The building was labeled, in a script Aurelius did not recognize, with a single word: VISTAMATIONS.
+
+At the bottom of the map, in the corner, was a number. 4444. It was written in a different hand, a different ink, a different time. It was not part of the map. It had been added later, by someone who had found the map and understood what it meant and wanted to mark it.
+
+Aurelius studied the map. He studied it the way he studied walls — with his eyes, with his hands, with the part of his brain that could feel the weight of a structure by looking at it. The tower on the map was not a fantasy. It was a building, and it was real, and it had been drawn by someone who knew buildings. The proportions were right. The angles were right. The load paths were right. Whoever had drawn this map had been an architect, or an engineer, or something in between.
+
+But the map was not complete. There were sections missing — blank spaces where the drawing stopped and the paper was empty. And in the blank spaces, there were marks. Small marks, barely visible, like dots of ink that had been placed with a needle. They were not random. They were arranged in patterns, and the patterns meant something, but Aurelius could not read them.
+
+He called Elizabeth. Elizabeth came, and she looked at the map, and she said, "This is not a map. This is a key."
+
+"A key to what?"
+
+"To something. I do not know what. But the marks — the dots — they are not decorative. They are coordinates. They are positions on a grid. If you could read them, you could find something."
+
+"Find what?"
+
+"I do not know," Elizabeth said. "But the watermark. The watermark is alive."
+
+Aurelius looked at the watermark. It was alive. It pulsed, faintly, in the light from the window. It was not paper. It was something else — something that had been put into the paper, or grown in the paper, or woven into the paper by a process that Aurelius did not understand.
+
+"Where did this come from?" he asked.
+
+"The postman left it," Elizabeth said. "He said it was in the bag, mixed in with the letters. He did not know whose it was. He gave it to me because I was at the gate."
+
+Aurelius looked at the map. He looked at the watermark. He looked at the number 4444. He looked at the dots.
+
+He went to the apothecary. He sat on the floor. He put his hand in the mortar trough. He closed his eyes.
+
+He did not feel a purr. But he felt something else — a hum, faint and distant, like a vibration in the stone of the floor, like a frequency that was just below the range of hearing. It was coming from the map. The map was humming.
+
+### Chapter 32: The Quarks
+
+Aurelius did not sleep that night. He sat in the apothecary with the map spread on the table, and he studied it. He studied the dots. He studied the blank spaces. He studied the watermark, which pulsed faintly in the candlelight. He studied the number 4444, and he tried to understand what it meant.
+
+By morning, he had a theory. The dots were not coordinates. They were nodes. They were points on a network, and the network was the map, and the map was a circuit, and the circuit was alive because the watermark was alive, and the watermark was alive because it was made of something that was not paper and not ink and not any material Aurelius had ever encountered.
+
+He called them quarks. He did not know why. The word came to him in the night, between sleep and waking, and it felt right. Quarks were the smallest things, the building blocks of everything, the points from which all structure emerged. These dots were quarks. They were the building blocks of the map, and the map was the building blocks of something larger.
+
+He touched one of the dots with his fingertip. It was warm. Not the warmth of paper in sunlight, but the warmth of a living thing — the warmth of blood, of breath, of a heartbeat. The dot pulsed under his finger, and the pulse traveled along the lines of the map, from dot to dot, like a current in a wire, and the map lit up.
+
+Not with light. With meaning. The blank spaces filled in. The missing sections appeared — not as ink on paper, but as something else, something that existed in the space between the paper and the air, something that Aurelius could see but could not touch. The map was three-dimensional. It was a model, not a drawing. It was a building, and it was alive, and it was calling to him.
+
+Elizabeth came in. She looked at the map. She looked at Aurelius. "What have you done?"
+
+"I touched it," he said. "And it woke up."
+
+### Chapter 33: The Vatican
+
+Pete — because Pete was there, in the story, in the Tower, in the system that connected the map to the world — Pete was in Rome. He had been drawn there by the same force that had drawn the map to Aurelius's apothecary. The Tower had received the map's signal, and Pete had followed it, the way he followed all signals — with curiosity, with determination, and with the particular kind of stubbornness that comes from being a man who owns a multi-million-dollar empire and refuses to be told what is possible.
+
+The Vatican archives were vast. They were older than the Tower, older than Vistamations, older than most of the things Pete had ever built. They smelled of dust and ink and the particular sweetness of paper that has been kept in the dark for centuries. Pete moved through them with a guide — an old priest, quiet and sharp-eyed, who seemed to know where everything was and to care about nothing except the preservation of the collection.
+
+"The Da Vinci fragment," Pete said. "I am looking for it."
+
+The priest looked at him. "Many people look for it. Few find it. Fewer understand it."
+
+"I am not looking for understanding," Pete said. "I am looking for the piece."
+
+The priest led him deeper into the archives. Past shelves of manuscripts, past cabinets of letters, past rooms full of books that no one had opened in centuries. He led him to a vault, and the vault had a door, and the door had a lock, and the lock had a key, and the key was in the priest's hand.
+
+Inside the vault, on a table, under glass, was a page. It was old. It was yellowed. It was covered in writing — some of it in Leonardo's hand, some of it in a hand Pete did not recognize. The writing was dense, layered, a palimpsest of ideas and calculations and prayers and something that was not quite any of those things.
+
+"This is the fragment," the priest said. "It is not complete. It was never meant to be complete. It is a seed, not a tree. It contains the beginning of something, but not the end."
+
+"What something?"
+
+"The wholeness," the priest said. "The thing that is missing when all the parts are separate. The thing that makes the parts into a whole. The thing that the Tower — " He stopped. He looked at Pete. "You know about the Tower."
+
+"I know about the Tower," Pete said.
+
+"Then you k
