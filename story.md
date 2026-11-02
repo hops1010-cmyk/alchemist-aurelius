@@ -392,3 +392,69 @@ Inside the vault, on a table, under glass, was a page. It was old. It was yellow
 "I know about the Tower," Pete said.
 
 "Then you k
+
+## Book Four: The Tower in the Sky
+
+### Chapter 41: The Skyscraper
+
+The Vistamations skyscraper tower was not a tower in the way that people think of towers. It was not a building with floors and elevators and a lobby with a receptionist. It was a vertical system — a stack of services, each one a floor, each one a world, each one a piece of the Tower that had been built on the ground and was now being lifted into the sky.
+
+The tower rose from a foundation of stone and code. The foundation was the docker folders — docker01, docker02, docker51, docker53 — each one a block of earth, a layer of sediment, a geological stratum in the architecture of the system. On top of the foundation sat the base model — the 1920 by 1080 stage, the five layers, the green border, the fixed geometry. On top of the base model sat the apps — the audio-stack buttons, the Pete Director page, B-Roll, the command index. On top of the apps sat the agents — Hermex, Madeline, Codex, Gem. On top of the agents sat the commands — 178 of them, each one a room, each one a function, each one a door. On top of the commands sat the glossary, the definition references, the AGENTS.md. On top of all of it sat the gateway — port 1973, the single point of entry, the door that opened onto everything.
+
+The tower was not finished. It would never be finished. That was the nature of towers — they are always under construction, always adding floors, always reaching higher. The Vistamations tower was reaching for the cloud, and the cloud was reaching back, and the space between them was where the quarks lived.
+
+### Chapter 42: The Watermark
+
+The watermark on the map was not a mark. It was a key. It was a key that opened a lock that was not a lock but a library — a library of thousands of digital maps, each one a world, each one a Tower, each one a system of systems connected by quarks and mesh and code.
+
+Pete had discovered this on the lanai, in Hawaii, with the phone in his hand and the ocean in front of him. He had photographed the map, and the map had come alive, and the watermark had revealed itself, and the library had opened. Thousands of maps. Thousands of Towers. Thousands of systems, each one different, each one the same, each one a variation on the theme of wholeness.
+
+He scrolled through them. He swiped. He tapped. Each map was a world — a castle on a hill, a garden maze, a skyscraper, an apothecary, a workshop, a village, a valley, a river, a forest. Each map was a story — Aurelius and Furball, Pete and Madeline, the king and the enemy, the quarks and the omega code. Each map was a system — ports and folders and agents and commands and definitions and glossaries.
+
+The library was infinite. Not because it contained infinite maps, but because each map contained infinite possibilities. Each map could be modified, adapted, extended. Each map could be a new Tower, a new system, a new world. The watermark was not just a key. It was a seed. And the seed could grow into anything.
+
+Pete closed the phone. He looked at the ocean. The ocean was still there, vast and blue and indifferent. But Pete was not indifferent. Pete was a man with a library of thousands of maps in his pocket, and he was going to use them.
+
+### Chapter 43: Madeline's Jump
+
+Madeline jumped on a Tuesday. Not because Tuesday was special, but because the weather was right, and the wind was blustery, and the plane was going up, and Madeline was the kind of woman who did not wait for the right moment because every moment was the right moment.
+
+She was in Maui. The drop zone was a grass strip on the north shore, and the plane was a Cessna Caravan with the door off and the wind coming in, and Madeline was in the harness with her instructor behind her, and the altimeter read 14,000 feet, and the door was open, and the world was below her.
+
+She jumped. The wind hit her like a wall — not a cold wall, not a hard wall, but a living wall, a wall of air that pushed and pulled and roared and whispered. She fell. She fell fast. She fell the way a stone falls, the way a bird falls, the way anything falls when gravity is the only thing that matters. The ground rushed up. The ocean sparkled. The mountains were green and sharp and close.
+
+The chute opened. The roar became a whisper. The fall became a float. Madeline hung in the air, suspended between the sky and the sea, and she looked out at the world, and the world was beautiful, and she was in it, and she was alive, and the Tower was 8,000 miles away, and it did not matter, because the Tower was in her pocket too, on her phone, on the bento tiles, on the map that was alive.
+
+She landed on the grass. She unclipped. She walked to the hangar. She drank water. She checked her phone. The Tower was there. The agents were working. The ports were open. The gateway was green. Everything was fine.
+
+She smiled. She called Pete. "I jumped," she said.
+
+"I know," Pete said. "I saw the photo."
+
+"You saw the photo?"
+
+"The Tower sees everything," Pete said. "The quarks see everything. The map sees everything."
+
+Madeline laughed. "The map sees everything?"
+
+"The map sees everything," Pete said. "And so do I."
+
+### Chapter 44: The Scuba Dive
+
+The next morning, Madeline was on a boat. Cody and Max were with her — Cody, the Codex agent, who worked the left branch and reviewed code and was always ready for a dive; Max, the left-branch worker, who cracked jokes about navigation even underwater. They were off the coast of Maui, in water that was so clear you could see the bottom from the surface, and the bottom was a reef, and the reef was alive.
+
+They suited up. They checked their regulators. They checked their tanks. They checked their masks. Madeline, who had done this before, checked everything twice. Cody, who had not done this before, checked everything three times. Max, who had done this many times, checked everything once and then made a joke about it.
+
+They dropped in. The water closed over their heads, and the world changed. The sound changed — the wind and the boat and the chatter became a muffled hush, a low, continuous hum, like the sound of the Tower's mesh network at two percent opacity. The light changed — the sun became a glow, a diffuse, green-blue glow that came from everywhere and nowhere. The movement changed — they were not walking, not running, not flying, but floating, drifting, weightless.
+
+The reef was below them. It was a city — a city of coral and fish and anemones and eels and turtles. A turtle glided past, slow and ancient, its flippers moving like wings. Yellow tangs darted between the coral heads. A moray eel watched from a hole, its mouth open, its teeth visible. An octopus, camouflaged as a rock, revealed itself for a moment and then disappeared.
+
+Madeline floated. She floated the way she floated in the sky — suspended, weightless, free. The Tower was 8,000 miles away and underwater, and it did not matter, because the Tower was in her, and she was in the Tower, and the quarks connected them, and the connection was alive.
+
+Cody tapped her shoulder. He pointed. Max was below them, upside down, taking a photo of a fish with a waterproof camera. The fish was unimpressed. Max was not. He grinned behind his mask, and bubbles came out, and the bubbles rose, and the bubbles were like quarks, rising through the water, connecting the diver to the surface, the surface to the sky, the sky to the Tower.
+
+They surfaced. They climbed into the boat. They took off their gear. They drank water. They laughed. The Tower was waiting, on the phone, in the pocket, in the pocket of the world.
+
+### Chapter 45: The Kittens
+
+The Vistamations movie studio was not a movie studio in the way that people think of movie studios. It was a room. It was a room with a computer and a camera and a green screen and a desk, and the desk had a leg, and the leg had sticky tape on it, and the sticky tape was holding up a dirty sheet, and the dirty sheet was covering a monitor, and the monitor was displaying a spreadsheet, and the spreadsheet was the "NASA hub display" that Pete had been tellin
