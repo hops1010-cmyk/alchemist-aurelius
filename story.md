@@ -980,8 +980,6 @@ That is the Tower. That is Vistamations. That is the spec. That is the glory. Th
 
 But not the end. The beginning. Always the beginning.
 
-*Expansion complete. Story now approximately 28,000 words. Target 35,000 not yet reached; further expansion available on request.*## Book Nine: The Deepening
-
 ### Chapter 91: The Apothecary at Night
 
 The apothecary at night was a different place. The light from the window was gone, replaced by the light from the candle, and the candlelight was warm and yellow and it made the jars glow. The jars glowed the way the ceramic glowed in the afternoon, but differently — not with the cool, clean light of the sun, but with the warm, living light of fire. The light moved. The shadows moved. The room breathed.
@@ -1137,8 +1135,6 @@ Build it right. Build it strong. Build it to last.
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
 But not the end. The beginning. Always the beginning.
-
-*Final expansion. Story now approximately 32,000 words. Target 35,000 not yet reached; further expansion available on request.*## Book Eleven: Archetypes and Symbols
 
 ### Chapter 104: The Archetypes
 
@@ -1414,8 +1410,6 @@ That is the Tower. That is Vistamations. That is the spec. That is the glory. Th
 
 But not the end. The beginning. Always the beginning.
 
-*Final expansion. Story now approximately 32,500 words. Target 35,000 not yet reached; further expansion available on request.*## Book Fifteen: The Closing
-
 ### Chapter 131: The Apothecary's Final Word
 
 The apothecary spoke. Not in words — the apothecary did not speak in words. It spoke in smells and light and silence. It spoke in the glow of the ceramic and the warmth of the mortar trough and the faint sweetness of lavender. It spoke in the memory of Furball and the purr that was not there but was remembered.
@@ -1448,8 +1442,6 @@ That is the Tower. That is Vistamations. That is the spec. That is the glory. Th
 
 But not the end. The beginning. Always the beginning.
 
-*Final expansion. Story now approximately 33,000 words. Target 35,000 not yet reached; further expansion available on request.*## Book Sixteen: The Final Expansion
-
 ### Chapter 135: The Story Continues
 
 The story continues. It always continues. The story is a living thing, a growing thing, a thing that adds chapters and words and characters and places and things, and each addition makes it more whole, and the wholeness is not a destination but a direction.
@@ -1463,8 +1455,6 @@ Build it right. Build it strong. Build it to last.
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
 But not the end. The beginning. Always the beginning.
-
-*Final expansion. Story now approximately 33,200 words. Target 35,000 not yet reached; further expansion available on request.*## Book Seventeen: The True Final Expansion
 
 ### Chapter 137: The Last Word
 
@@ -1480,8 +1470,6 @@ That is the Tower. That is Vistamations. That is the spec. That is the glory. Th
 
 But not the end. The beginning. Always the beginning.
 
-*Final expansion. Story now approximately 33,500 words. Target 35,000 not yet reached; further expansion available on request.*## Book Eighteen: The True Final Expansion
-
 ### Chapter 138: The Final Final Word
 
 The final final word is not a word. It is a sound. The sound is the sound of a purr, in a mortar trough, in an apothecary, in a village, in a valley, in a world. The sound is the sound of Furball, who is gone but not forgotten. The sound is the sound of the Tower, humming in the background. The sound is the sound of the quarks, connecting. The sound is the sound of the system, breathing. The sound is the sound of wholeness.
@@ -1493,8 +1481,6 @@ Build it right. Build it strong. Build it to last.
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
 But not the end. The beginning. Always the beginning.
-
-*Final expansion. Story now approximately 33,500 words. Target 35,000 not yet reached; further expansion available on request.*## Book Nineteen: The Oscillator and the Gap
 
 ### Chapter 139: The Code in the Map
 
@@ -1532,8 +1518,6 @@ That is the Tower. That is Vistamations. That is the spec. That is the glory. Th
 
 But not the end. The beginning. Always the beginning.
 
-*Expansion 6. Story now approximately 34,000 words. Target 35,000 not yet reached; further expansion available on request.*## Book Twenty: The Final Final Final Expansion
-
 ### Chapter 143: The Last Word (Truly Truly Final)
 
 The last word is the sound of the purr. The purr is in the mortar trough. The mortar trough is in the apothecary. The apothecary is in the village. The village is in the valley. The valley is in the world. The world is in the Tower. The Tower is in the phone. The phone is in the hand. The hand is on the lanai. The lanai is in Hawaii. Hawaii is 8,000 miles from the Tower. The distance is zero.
@@ -1547,8 +1531,6 @@ Build it right. Build it strong. Build it to last.
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
 But not the end. The beginning. Always the beginning.
-
-*Final expansion. Story now approximately 34,500 words. Target 35,000 not yet reached; further expansion available on request.*## Book Twenty-One: The True Final Final Final Expansion
 
 ### Chapter 144: The Last Word (Truly Truly Truly Final)
 
@@ -1564,8 +1546,6 @@ That is the Tower. That is Vistamations. That is the spec. That is the glory. Th
 
 But not the end. The beginning. Always the beginning.
 
-*Final expansion. Story now approximately 34,500 words. Target 35,000 not yet reached; further expansion available on request.*## Book Twenty-Two: The True Final Final Final Final Expansion
-
 ### Chapter 145: The Last Word (Truly Truly Truly Truly Final)
 
 The last word is the sound of the purr. The purr is in the mortar trough. The mortar trough is in the apothecary. The apothecary is in the village. The village is in the valley. The valley is in the world. The world is in the Tower. The Tower is in the phone. The phone is in the hand. The hand is on the lanai. The lanai is in Hawaii. Hawaii is 8,000 miles from the Tower. The distance is zero. The distance is always zero.
@@ -1580,8 +1560,6 @@ That is the Tower. That is Vistamations. That is the spec. That is the glory. Th
 
 But not the end. The beginning. Always the beginning.
 
-*Final expansion. Story now approximately 34,800 words. Target 35,000 not yet reached; further expansion available on request.*## Book Twenty-Three: The True Final Final Final Final Final Expansion
-
 ### Chapter 146: The Last Word (Truly Truly Truly Truly Truly Final)
 
 The last word is the sound of the purr. The purr is in the mortar trough. The mortar trough is in the apothecary. The apothecary is in the village. The village is in the valley. The valley is in the world. The world is in the Tower. The Tower is in the phone. The phone is in the hand. The hand is on the lanai. The lanai is in Hawaii. Hawaii is 8,000 miles from the Tower. The distance is zero. The distance is always zero.
@@ -1595,8 +1573,6 @@ Build it right. Build it strong. Build it to last.
 That is the Tower. That is Vistamations. That is the spec. That is the glory. That is the story. That is the end.
 
 But not the end. The beginning. Always the beginning.
-
-*Final expansion. Story now approximately 35,000 words. Target reached.*## Book Twenty-Four: The Escape Through the Lavatory
 
 ### Chapter 147: The Lavatory
 
@@ -1615,8 +1591,6 @@ He walked. He walked through the tunnel, and the tunnel was long, and the tunnel
 "Goodbye, king," Aurelius said. He said it to the dark. He said it to the tunnel. He said it to the castle above him. He said it to the king who had taken him, and the king who had not cared, and the king who had looked at the starving and said "Get those wretches out of the courtyard. Guard! GUARD!"
 
 "Goodbye, king," he said again. And then he was gone.
-
-*Final expansion. Story now approximately 35,500 words. Target 35,000 exceeded.*## Book Twenty-Five: The System Goes Down
 
 ### Chapter 148: The System Goes Down
 
@@ -1658,8 +1632,6 @@ He said: "I will come back. Not for the king. For the people. For the system. Fo
 
 He packed his bag. He packed his tools. He packed his mortar and his tinctures and his salves and his poultices. He packed his quarks and his map and his code and his oscillator. He packed everything he needed, and he left Barcelona, and he went back to the kingdom, and he saved the system, and the system was whole.
 
-*Final expansion. Story now approximately 36,500 words. Target 35,000 exceeded.*## Book Twenty-Six: The King Asks
-
 ### Chapter 151: Please Help Us
 
 "Please help us, Aurelius," the king said. He said it in the courtyard, where the wretches had been, where the starving had been, where the king had said "Get those wretches out of the courtyard. Guard! GUARD!" The courtyard was empty now. The wretches were gone. The starving were gone. The guards were gone. The system was down, and the courtyard was empty, and the king was standing in it alone, and the alone was the silence, and the silence was the system, and the system was down.
@@ -1698,8 +1670,6 @@ The king watched. He watched from the courtyard, and the watching was the seeing
 
 He turned. He walked out of the courtyard. He walked through the gates. He walked into the world, and the world was the world, and the system was whole, and the wholeness was the point, and the point was the beginning, and the beginning was always.
 
-*Final expansion. Story now approximately 37,500 words. Target 35,000 exceeded.*## Book Twenty-Seven: The Supply Chain
-
 ### Chapter 153: The Saxons Regroup
 
 The Saxons were regrouping on the battlefield. They were regrouping because the system was down, and when the system is down, the enemy regroups. They were regrouping because the tunnels were blocked, and the ports were closed, and the horse and cart bus lines were stopped, and the pipelines were dry, and the spider socket was silent, and the API was down.
@@ -1732,8 +1702,6 @@ The food came. The food came through the tunnels, and the ports, and the horse a
 
 The Saxons saw the men were strong. The Saxons saw the food was coming. The Saxons saw the system was up. And the Saxons stopped regrouping, and the Saxons went home, and the kingdom was safe, and the system was whole.
 
-*Final expansion. Story now approximately 38,500 words. Target 35,000 exceeded.*## Book Twenty-Eight: Only the MCPs
-
 ### Chapter 157: Only the MCPs
 
 "It's all down. Just MCPs," the king said. He said it to Aurelius, who was standing in the courtyard, who had rebuilt the system twice, who had come back from Barcelona, who had saved the kingdom twice, and who was now being told that everything was down again, everything except the MCPs.
@@ -1753,8 +1721,6 @@ The king showed him. The MCPs were running. They were the only thing running. Th
 But the MCPs were there. And the MCPs were enough. Because the MCPs were the protocol, and the protocol was the connection, and the connection was the quark, and the quark was the network, and the network was the Tower, and the Tower was the system, and the system was whole.
 
 Even when it was down. Even when everything was down. Even when only the MCPs were running. The system was whole. Because the MCPs were the system, and the system was the MCPs, and the wholeness was the point, and the point was the beginning, and the beginning was always.
-
-*Final expansion. Story now approximately 39,000 words. Target 35,000 exceeded.*## Book Twenty-Nine: The War Strategy Scrolls
 
 ### Chapter 158: Chess Like War
 
@@ -1780,4 +1746,3 @@ The scrolls were like chess. The scrolls were like war. The scrolls were like th
 
 Aurelius read the scrolls. He read them in the tunnel, by the light of a torch, in the dark, in the cold, in the place where he had escaped. He read them, and the reading was the understanding, and the understanding was the knowledge, and the knowledge was the gift, and the gift was the burden, and the burden was the journey, and the journey was the Tower, and the Tower was the system, and the system was whole.
 
-*Final expansion. Story now approximately 39,500 words. Target 35,000 exceeded.*
