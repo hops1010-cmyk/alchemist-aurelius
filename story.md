@@ -1881,4 +1881,7 @@ If you didn't — look again. The pin keys open the doors. The doors are the maz
 
 Build it right. Build it strong. Build it to last.
 
+<!-- pin key: 4444 -->
+*Clue: the clock runs backward 2.5 seconds, and 2.5 × 2 = 5, and 5 × 888.8 = 4444. The gap remembers.*
+
 — The Author
