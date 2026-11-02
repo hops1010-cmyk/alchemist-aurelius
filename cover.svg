@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a0b2e"/>
+      <stop offset="1" stop-color="#0b1018"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="45%">
+      <stop offset="0" stop-color="#ff6700" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#ff6700" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="url(#bg)"/>
+  <rect width="1200" height="1800" fill="url(#glow)"/>
+  <!-- castle silhouette -->
+  <g fill="#05070a" opacity="0.9">
+    <rect x="200" y="900" width="800" height="400"/>
+    <rect x="260" y="780" width="120" height="160"/>
+    <rect x="420" y="720" width="140" height="220"/>
+    <rect x="640" y="760" width="130" height="180"/>
+    <rect x="820" y="800" width="110" height="140"/>
+    <polygon points="260,780 320,700 380,780"/>
+    <polygon points="420,720 490,620 560,720"/>
+    <polygon points="640,760 705,670 770,760"/>
+    <polygon points="820,800 875,720 930,800"/>
+  </g>
+  <!-- title -->
+  <text x="600" y="260" text-anchor="middle" font-family="Georgia,serif" font-size="96" fill="#f5f8fc" font-weight="700">THE ALCHEMIST</text>
+  <text x="600" y="360" text-anchor="middle" font-family="Georgia,serif" font-size="120" fill="#ff6700" font-weight="700">AURELIUS</text>
+  <text x="600" y="430" text-anchor="middle" font-family="Georgia,serif" font-size="32" fill="#9aa8b9" font-style="italic">Kidnapped by the king. Forged in stone.</text>
+  <!-- kitten silhouette -->
+  <g transform="translate(540,1380)" fill="#f5f8fc" opacity="0.7">
+    <ellipse cx="60" cy="40" rx="40" ry="28"/>
+    <circle cx="30" cy="20" r="14"/>
+    <circle cx="90" cy="20" r="14"/>
+    <path d="M20,10 L30,20 L40,10 Z" fill="#0b1018"/>
+    <path d="M80,10 L90,20 L100,10 Z" fill="#0b1018"/>
+    <path d="M100,40 Q130,20 125,60" stroke="#f5f8fc" stroke-width="6" fill="none"/>
+  </g>
+  <text x="600" y="1720" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#9aa8b9">Furball waits at home.</text>
+</svg>
