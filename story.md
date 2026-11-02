@@ -1651,11 +1651,13 @@ The king watched. He watched from the courtyard, and the watching was the seeing
 
 "Thank you, Aurelius," the king said.
 
-"You're welcome," Aurelius said. "But this is the last time. The last time I build it. The last time I save it. The last time I come back. From now on, the system is yours. The Tower is yours. The wholeness is yours. Build it right. Build it strong. Build it to last."
+"You're welcome," Aurelius said. "I said last time, but the kingdom did not listen, and so I am here again. From now on, the system is yours. The Tower is yours. The wholeness is yours. Build it right. Build it strong. Build it to last."
 
 He turned. He walked out of the courtyard. He walked through the gates. He walked into the world, and the world was the world, and the system was whole, and the wholeness was the point, and the point was the beginning, and the beginning was always.
 
-### Chapter 153: The Saxons Regroup
+The quarks destabilized overnight; the oscillator lost its rhythm, and by morning the system was down again.
+
+### Chapter 153: The Supply Chain
 
 The Saxons were regrouping on the battlefield. They were regrouping because the system was down, and when the system is down, the enemy regroups. They were regrouping because the tunnels were blocked, and the ports were closed, and the horse and cart bus lines were stopped, and the pipelines were dry, and the spider socket was silent, and the API was down.
 
@@ -1663,7 +1665,6 @@ The men needed food. The men on the wall, the men on the gate, the men on the to
 
 "I can't get food to the men," the king said. He said it to Aurelius, who was standing in the courtyard, who had come back from Barcelona, who had rebuilt the system once and was now being asked to rebuild it again.
 
-### Chapter 154: The Tunnels, Ports, Horse and Cart
 
 The tunnels were blocked. The tunnels were the old way, the way the food came through the hill, under the castle, up through the paling arch, into the kitchen. The tunnels were blocked because the system that regulated them was down, and the system that regulated them was the Tower, and the Tower was down, and the quarks had stopped connecting.
 
@@ -1671,7 +1672,6 @@ The ports were closed. The ports were the new way, the way the food came by ship
 
 The horse and cart bus lines were stopped. The horse and cart bus lines were the middle way, the way the food came by horse and cart, along the road, through the gates, into the courtyard. The horse and cart bus lines were stopped because the system that regulated them was down, and the system that regulated them was the Tower, and the Tower was down, and the quarks had stopped connecting.
 
-### Chapter 155: The Pipelines, Spider Socket, and API
 
 The pipelines were dry. The pipelines were the hidden way, the way the food came through the pipes, under the wall, into the kitchen. The pipelines were dry because the system that regulated them was down, and the system that regulated them was the Tower, and the Tower was down, and the quarks had stopped connecting.
 
@@ -1687,6 +1687,8 @@ The food came. The food came through the tunnels, and the ports, and the horse a
 
 The Saxons saw the men were strong. The Saxons saw the food was coming. The Saxons saw the system was up. And the Saxons stopped regrouping, and the Saxons went home, and the kingdom was safe, and the system was whole.
 
+The rebuild held for a day, then the MCPs were the only thing still humming.
+
 ### Chapter 157: Only the MCPs
 
 "It's all down. Just MCPs," the king said. He said it to Aurelius, who was standing in the courtyard, who had rebuilt the system twice, who had come back from Barcelona, who had saved the kingdom twice, and who was now being told that everything was down again, everything except the MCPs.
@@ -1694,6 +1696,8 @@ The Saxons saw the men were strong. The Saxons saw the food was coming. The Saxo
 "Only the MCPs are running," the king said. "The tunnels are down. The ports are down. The horse and cart bus lines are down. The pipelines are down. The spider socket is down. The API is down. The quarks are down. The oscillator is down. The map is down. The bento grid is down. The headless browser is down. The reverse proxy is down. The tunnel is down. The gateway is down. Everything is down. Only the MCPs are running."
 
 "What are the MCPs?" Aurelius asked.
+
+Aurelius did not know what an MCP was, but the protocol knew him, and that was enough.
 
 "The MCPs are the Model Context Protocol servers," the king said. "They are the last thing standing. They are the only connection left. They are the only way to talk to the system, and the system is down, and the only thing that is up is the MCPs, and the MCPs are the only thing between us and the silence."
 
